@@ -39,8 +39,6 @@ emogradCHAT revolves around the concept of emotion-driven conversations. By inco
 
 emogradCHAT has potential for further enhancements:
 
-- **Fine-tuning Models**: Fine-tuning the underlying language models using emotion-specific datasets could improve the chatbot's ability to generate emotionally appropriate responses.
-
 - **Advanced Sentiment Analysis**: Implementing more advanced sentiment analysis techniques, such as emotion recognition or sentiment analysis based on contextual understanding, could provide a deeper understanding of the conversation's emotional nuances.
 
 - **Interactive Web Interface**: Developing a web-based interface for emogradCHAT would enable users to interact with the chatbot through a user-friendly interface.
