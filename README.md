@@ -1,5 +1,8 @@
 # emogradCHAT: Emotion-Driven Chatbot
 
+![emograd](https://github.com/EveryOneIsGross/emogradCHAT/assets/23621140/6ce286ab-3801-4dd7-8620-2253cdd66fb0)
+
+
 emogradCHAT is an emotion-driven chatbot that utilizes sentiment analysis and sentiment drift to generate contextually appropriate responses. The project name, derived from "emotion" & "gradient," reflects the focus on capturing and understanding the emotional dynamics in conversations. emogradCHAT incorporates sentiment analysis techniques and introduces a unique sentiment drift mechanism to adapt the chatbot's behavior over time based on the emotional context of the conversation. By utilizing a multi-dimensional sentiment drift vector, emogradCHAT aims to generate more personalized and emotionally-aware responses.
 
 ## How it Works
