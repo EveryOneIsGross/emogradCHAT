@@ -42,6 +42,8 @@ emogradCHAT revolves around the concept of emotion-driven conversations. By inco
 
 emogradCHAT has potential for further enhancements:
 
+- **Vectors**: The current affect the vector has is on openai temperature, this is a placeholder example as a building block for further chatbot persona manipulation.
+
 - **Advanced Sentiment Analysis**: Implementing more advanced sentiment analysis techniques, such as emotion recognition or sentiment analysis based on contextual understanding, could provide a deeper understanding of the conversation's emotional nuances.
 
 - **Interactive Web Interface**: Developing a web-based interface for emogradCHAT would enable users to interact with the chatbot through a user-friendly interface.
